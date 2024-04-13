@@ -1,0 +1,1 @@
+In our data science project for the "Seminar Topics in Fintech" course, we plan to implement a Long Short-Term Memory (LSTM) model to predict future Bitcoin prices. Our objective is to accurately forecast either the specific prices or the overall trend for the upcoming 50 days.
